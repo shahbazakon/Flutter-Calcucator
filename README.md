@@ -2,16 +2,15 @@
 A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division.
 
 
-![Calculator GIF](https://user-images.githubusercontent.com/57652434/144084964-d93dd912-a8df-435a-83a3-24945fc8c08d.gif)
 
 # Application
 <div class="column" style = "float: center;">
-    <img src="https://user-images.githubusercontent.com/57652434/144084964-d93dd912-a8df-435a-83a3-24945fc8c08d.gif" height="500">
+    <img src="https://user-images.githubusercontent.com/57652434/144084964-d93dd912-a8df-435a-83a3-24945fc8c08d.gif" height="50%">
   </div>
+  
 # ScreenScreenShorts
 
-<br />
- 
+
 <p float="left">
     
 <img src="https://user-images.githubusercontent.com/57652434/144072932-0509e53e-83bd-4aee-81a7-16b0223c3939.jpg"  width="260" height="500" /> 
