@@ -1,0 +1,40 @@
+name: calculator
+description: A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division.
+
+publish_to: 'none'
+
+version: 1.2.2+8
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.4
+  rename: ^2.0.1
+  google_fonts: ^2.1.0
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+  line_awesome_icons: ^1.0.4+2
+  math_expressions: ^2.2.0
+  provider: ^6.0.1
+  url_launcher: ^6.0.16
+  intl :
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^1.1.1
+  build_runner: ^2.1.5
+
+#dependency_overrides:
+#  dartx: ^0.8.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+
