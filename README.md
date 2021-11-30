@@ -1,26 +1,21 @@
 # Flutter Calcucator
 A calculator is a device that performs arithmetic operations on numbers. The simplest calculators can do only addition, subtraction, multiplication, and division.
 
+
+![Calculator GIF](https://user-images.githubusercontent.com/57652434/144084964-d93dd912-a8df-435a-83a3-24945fc8c08d.gif)
+
 # Application
 <div class="column" style = "float: center;">
-    <img src="https://user-images.githubusercontent.com/57652434/144045439-586baad5-39bb-41b7-b7fd-85d3024973c6.gif" style="width:40%;">
+    <img src="https://user-images.githubusercontent.com/57652434/144084964-d93dd912-a8df-435a-83a3-24945fc8c08d.gif" height="500">
   </div>
 # ScreenScreenShorts
 
-<div class="row" style="display: flex;  justify-content: center; " >
-
-  <div class="column" style = "float: left; display: flex;  justify-content: center;  width: 33%;  padding: 5px;">
-    <img src="https://user-images.githubusercontent.com/57652434/144045439-586baad5-39bb-41b7-b7fd-85d3024973c6.gif" style="width:30%;">
-  </div>
+<br />
+ 
+<p float="left">
+    
+<img src="https://user-images.githubusercontent.com/57652434/144072932-0509e53e-83bd-4aee-81a7-16b0223c3939.jpg"  width="260" height="500" /> 
+<img src="https://user-images.githubusercontent.com/57652434/144072939-8a046e86-3f39-4a7e-9d07-0e9ed896d8ab.jpg" width="260" height="500" />
+<img src="https://user-images.githubusercontent.com/57652434/144072942-6ac278ff-ece2-471d-8d22-8f627517c881.jpg" width="260" height="500" />
   
-  <div class="column" style = "float: left; display: flex;  justify-content: center;   width: 33%;  padding: 5px;">
-    <img src="https://user-images.githubusercontent.com/57652434/144045439-586baad5-39bb-41b7-b7fd-85d3024973c6.gif" style="width:30%;">
-  </div>
-  
-  <div class="column" style = "float: left; display: flex;  justify-content: center;  width: 33%; padding: 5px;">
-    <img src="https://user-images.githubusercontent.com/57652434/144045439-586baad5-39bb-41b7-b7fd-85d3024973c6.gif"  style="width:30%; ">
-  </div>
-  
-</div>
-  
-</div>
+  <br />
